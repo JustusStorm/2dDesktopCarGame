@@ -1,0 +1,16 @@
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\_2DCarGame.Form1.resources
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\_2DCarGame.Properties.Resources.resources
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\2DCarGame.csproj.GenerateResource.cache
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\2DCarGame.AssemblyInfoInputs.cache
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\2DCarGame.AssemblyInfo.cs
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\2DCarGame.csproj.CoreCompileInputs.cache
+D:\Github_Repositories\2DCarGame\2DCarGame\bin\Debug\netcoreapp3.1\2DCarGame.exe
+D:\Github_Repositories\2DCarGame\2DCarGame\bin\Debug\netcoreapp3.1\2DCarGame.deps.json
+D:\Github_Repositories\2DCarGame\2DCarGame\bin\Debug\netcoreapp3.1\2DCarGame.runtimeconfig.json
+D:\Github_Repositories\2DCarGame\2DCarGame\bin\Debug\netcoreapp3.1\2DCarGame.runtimeconfig.dev.json
+D:\Github_Repositories\2DCarGame\2DCarGame\bin\Debug\netcoreapp3.1\2DCarGame.dll
+D:\Github_Repositories\2DCarGame\2DCarGame\bin\Debug\netcoreapp3.1\2DCarGame.pdb
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\2DCarGame.dll
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\2DCarGame.pdb
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\2DCarGame.genruntimeconfig.cache
+D:\Github_Repositories\2DCarGame\2DCarGame\obj\Debug\netcoreapp3.1\2DCarGame.csprojAssemblyReference.cache
